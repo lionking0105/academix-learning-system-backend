@@ -38,9 +38,6 @@ For security-related issues, please refer to our [SECURITY.md](./SECURITY.md) fi
 ## Contributing
 We welcome contributions from the open source community to enhance Academix. If you find any issues or have suggestions for improvements, please submit a pull request.
 
-## Contact
-For any inquiries or support, you can reach us at perisicnikola37@gmail.com.
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
